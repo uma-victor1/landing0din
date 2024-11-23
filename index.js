@@ -81,3 +81,4 @@ num();
 // console.log(person(), ";))))))");
 
 // console.log("we outside");
+console.log('we outside')
